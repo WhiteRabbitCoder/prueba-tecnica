@@ -109,7 +109,7 @@ Muestra una tabla con todos los productos. Desde aquí se puede acceder a los de
 Muestra la información detallada de un producto, incluyendo su nombre, precio, descripción y fechas de creación y actualización. Desde aquí se puede editar o eliminar el producto.
 
 #### Crear un producto
-**Ruta:** `/products/create`  
+**Ruta:** `/products/new`  
 Formulario para agregar un nuevo producto. Al enviar el formulario, se muestra un mensaje de confirmación y se redirige al listado de productos.
 
 #### Editar un producto
